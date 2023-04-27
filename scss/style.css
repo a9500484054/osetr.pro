@@ -1,0 +1,12 @@
+.slider-item {
+  background-size: cover;
+  height: 90vh;
+}
+.slider-item .container {
+  height: 100%;
+  max-width: 100%;
+  background: rgba(0, 0, 0, 0.4470588235);
+}
+.slider-item .slider-text {
+  height: 100%;
+}/*# sourceMappingURL=style.css.map */
