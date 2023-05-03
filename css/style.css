@@ -9294,3 +9294,73 @@ textarea.form-control {
   width: 300px !important;
   margin: 0 auto;
 }
+
+.ff-amatic {
+  font-family: 'Amatic SC', cursive;
+}
+
+.slider-item-1 {
+  background-position-x: -223px;
+  background-repeat: no-repeat;
+}
+
+.slider-item-1__wrapper {
+  padding-top: 30px;
+}
+
+.slider-item-1__text-2 {
+  width: 207px;
+  display: block;
+  text-align: left;
+  font-style: italic;
+  color: #000000;
+}
+
+
+@media (min-width: 768px) {
+  .slider-item-1 {
+    background-position-x: 0;
+    background-repeat: no-repeat;
+  }
+  .slider-item-1__text-2 {
+    margin-left: 11%;
+  }
+}
+
+@media (min-width: 992px) {
+  .slider-item-1__wrapper {
+    padding-top: 200px;
+  }
+  .slider-item-1__text-1 {
+    text-align: left;
+  }
+  .slider-item-1__text-2 {
+    width: 407px;
+    margin-left: 0
+  }
+}
+@media (min-width: 1280px) {
+  .slider-item-1__wrapper {
+    padding-top: 200px;
+  }
+  .slider-item-1__text-1 {
+    font-size: 48px;
+    text-align: left;
+  }
+  .slider-item-1__text-2 {
+    width: 807px;
+    font-size: 24px;
+  }
+}
+
+.ftco-section__img {
+  width: 100%;
+}
+
+.ftco-menu {
+  padding-top: 0;
+  }
+
+  .modal-content {
+    background: #000;
+  }
