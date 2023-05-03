@@ -9364,3 +9364,17 @@ textarea.form-control {
   .modal-content {
     background: #000;
   }
+
+.fs-36 {
+  font-style: 32px !important;
+}
+
+/* .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+  font-size: 32px;
+
+} */
+
+.footer__text p {
+  padding: 0;
+  margin: 0;
+}
